@@ -1,1 +1,9 @@
-GET http://localhost:8080/users/610865cc892bae18ff3sasdsadasaee
+GET http://localhost:8080/users/
+
+# POST http://localhost:8080/users/
+# content-type: application/json
+
+# {
+#     "name": "Jose",
+#     "email": "jose@gmail.com"
+# }
