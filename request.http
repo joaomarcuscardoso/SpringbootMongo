@@ -1,4 +1,4 @@
-GET http://localhost:8080/posts/titlesearch?text=Bom%20dia
+GET http://localhost:8080/posts/fullsearch?text=aproveite&minDate=2018-03-21&maxDate=2018-03-22
 
 # POST http://localhost:8080/users/
 # content-type: application/json
