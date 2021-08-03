@@ -1,4 +1,4 @@
-GET http://localhost:8080/post/
+GET http://localhost:8080/users/6108ac8d0a048214c901ed1c/posts
 
 # POST http://localhost:8080/users/
 # content-type: application/json
