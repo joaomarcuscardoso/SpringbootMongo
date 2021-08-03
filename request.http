@@ -1,4 +1,4 @@
-GET http://localhost:8080/posts/6108afc40a048218864257fa
+GET http://localhost:8080/posts/titlesearch?text=bom%20dia
 
 # POST http://localhost:8080/users/
 # content-type: application/json
