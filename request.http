@@ -7,3 +7,12 @@ GET http://localhost:8080/users/
 #     "name": "Jose",
 #     "email": "jose@gmail.com"
 # }
+
+
+# PUT http://localhost:8080/users/6108a4400a04820ae4381ff4
+# content-type: application/json
+
+# {
+#     "name": "João Marcus",
+#     "email": "joao@gmail.com"
+# }
